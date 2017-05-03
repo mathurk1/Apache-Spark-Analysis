@@ -1,0 +1,17 @@
+# Sales Data
+
+The data is a sales data for a retail company.
+
+The values are tab delimited and the format of the data looks like:
+
+2012-01-01	09:00	San Jose	Men's Clothing	214.05	Amex
+
+date\ttime\tstore name\titem description\tcost\tmethod of payment
+
+Where each value is:
+- date
+- time 
+- Store Location
+- Product Type
+- Cost 
+- Method of payment
